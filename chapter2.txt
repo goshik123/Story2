@@ -1,1 +1,1 @@
-This is chapter 2 that is created on master branch
+This is chapter 2 that is created on main  branch
